@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-27T09:35:44.303Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="fUqieJPTVVRiuLmh-3PU" version="14.8.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-27T09:47:56.589Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="RUYTwCLOGpiWwlCov1ln" version="14.8.4" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="3716" dy="1066" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -296,6 +296,9 @@
         </mxCell>
         <mxCell id="nZmrJq0x39vUf4YxutHX-147" value="更改数据库状态" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-300" y="2100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nZmrJq0x39vUf4YxutHX-153" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nZmrJq0x39vUf4YxutHX-150" target="nZmrJq0x39vUf4YxutHX-152">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nZmrJq0x39vUf4YxutHX-150" value="更新终端状态" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="435" y="1557.5" width="120" height="60" as="geometry" />
