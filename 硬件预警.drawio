@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-28T09:54:50.180Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="d4Z3fWs9FN7zlWldmdfA" version="14.8.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-01-28T09:56:00.265Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="afH8sAYcYYuURO7RSci1" version="14.8.4" type="github" pages="3">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="3716" dy="1066" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1750,6 +1750,22 @@
         <mxCell id="fYFNIOwWum8jlP1RtMPy-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=13;fontColor=#000000;" edge="1" parent="iFManXigJgD2nTXd3mDo-1" source="HOL7BNdj1jtAwVWhTyNL-1" target="fYFNIOwWum8jlP1RtMPy-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="4x1oA2WhnrD2oqC5onJ9-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=13;fontColor=#000000;" edge="1" parent="iFManXigJgD2nTXd3mDo-1" source="HOL7BNdj1jtAwVWhTyNL-1" target="fYFNIOwWum8jlP1RtMPy-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="380" y="600" />
+              <mxPoint x="630" y="600" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4x1oA2WhnrD2oqC5onJ9-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=13;fontColor=#000000;" edge="1" parent="iFManXigJgD2nTXd3mDo-1" source="HOL7BNdj1jtAwVWhTyNL-1" target="fYFNIOwWum8jlP1RtMPy-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="380" y="600" />
+              <mxPoint x="1090" y="600" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="HOL7BNdj1jtAwVWhTyNL-1" value="判断" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;labelBackgroundColor=none;fontColor=#000000;" vertex="1" parent="iFManXigJgD2nTXd3mDo-1">
           <mxGeometry x="330" y="450" width="100" height="100" as="geometry" />
         </mxCell>
@@ -1797,9 +1813,6 @@
         </mxCell>
         <mxCell id="fYFNIOwWum8jlP1RtMPy-4" value="本地烈度：S&amp;gt;6&lt;br&gt;&amp;nbsp;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;楼层：≤6层&lt;br&gt;预警时长：alll" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="iFManXigJgD2nTXd3mDo-1">
           <mxGeometry x="570" y="1060" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="fYFNIOwWum8jlP1RtMPy-6" value="本地烈度：S&amp;gt;6&lt;br&gt;&amp;nbsp;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;楼层：&amp;gt;6层&lt;br&gt;预警时长：alll" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="iFManXigJgD2nTXd3mDo-1">
-          <mxGeometry x="730" y="640" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fYFNIOwWum8jlP1RtMPy-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;fontColor=#000000;" edge="1" parent="iFManXigJgD2nTXd3mDo-1" source="fYFNIOwWum8jlP1RtMPy-7" target="4x1oA2WhnrD2oqC5onJ9-21">
           <mxGeometry relative="1" as="geometry">
