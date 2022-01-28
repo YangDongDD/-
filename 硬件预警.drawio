@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-28T06:36:08.529Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="T7kTDkb3BNebKghbqOT9" version="14.8.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-01-28T06:36:32.583Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="1zyQlXqkyU8mD8arGrEK" version="14.8.4" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="3716" dy="1066" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1206,7 +1206,17 @@
           <mxGeometry x="-616" y="1080" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZIxHQ5FrTpvtqCkuEq77-447" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" edge="1" parent="f01-6mVTigcqcZd7nwBR-1" source="ZIxHQ5FrTpvtqCkuEq77-441" target="ZIxHQ5FrTpvtqCkuEq77-446">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-557" y="1620" />
+              <mxPoint x="-557" y="1620" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZIxHQ5FrTpvtqCkuEq77-466" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;" vertex="1" connectable="0" parent="ZIxHQ5FrTpvtqCkuEq77-447">
+          <mxGeometry x="-0.2859" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="ZIxHQ5FrTpvtqCkuEq77-441" value="是否为更正消息" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;labelBackgroundColor=none;fontColor=#000000;" vertex="1" parent="f01-6mVTigcqcZd7nwBR-1">
           <mxGeometry x="-654" y="1480" width="194" height="100" as="geometry" />
