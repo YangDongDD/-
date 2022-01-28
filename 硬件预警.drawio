@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-28T09:43:47.998Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="RZ1b4Aym-1PcY719IAlP" version="14.8.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-01-28T09:44:57.135Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="XVBXbRcslDUCOdyBWeEE" version="14.8.4" type="github" pages="3">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="3716" dy="1066" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1776,14 +1776,14 @@
         <mxCell id="fYFNIOwWum8jlP1RtMPy-3" value="本地烈度：5&amp;lt;=S&amp;lt;6&lt;br&gt;&amp;nbsp;&lt;span&gt;	&lt;/span&gt;楼层：≥3层&lt;br&gt;预警时长：&amp;lt;30秒" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="iFManXigJgD2nTXd3mDo-1">
           <mxGeometry x="707" y="470" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fYFNIOwWum8jlP1RtMPy-4" value="本地烈度：S&amp;gt;6&lt;br&gt;&amp;nbsp;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;楼层：&amp;lt;=6层&lt;br&gt;预警时长：alll" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="iFManXigJgD2nTXd3mDo-1">
-          <mxGeometry x="1070" y="1010" width="120" height="60" as="geometry" />
+        <mxCell id="fYFNIOwWum8jlP1RtMPy-4" value="本地烈度：S&amp;gt;6&lt;br&gt;&amp;nbsp;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;楼层：≤层&lt;br&gt;预警时长：alll" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="iFManXigJgD2nTXd3mDo-1">
+          <mxGeometry x="570" y="1060" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fYFNIOwWum8jlP1RtMPy-6" value="本地烈度：S&amp;gt;6&lt;br&gt;&amp;nbsp;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;楼层：&amp;gt;6层&lt;br&gt;预警时长：alll" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="iFManXigJgD2nTXd3mDo-1">
           <mxGeometry x="730" y="640" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fYFNIOwWum8jlP1RtMPy-7" value="本地烈度：S≥6&lt;br&gt;&amp;nbsp;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;楼层：&amp;gt;6层&lt;br&gt;预警时长：&amp;lt;60秒" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="iFManXigJgD2nTXd3mDo-1">
-          <mxGeometry x="1210" y="1140" width="120" height="60" as="geometry" />
+          <mxGeometry x="1030" y="1060" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fYFNIOwWum8jlP1RtMPy-9" value="&lt;div&gt;音箱：平缓播放轻微地震，不要惊慌至地震预整解除。&lt;/div&gt;&lt;div&gt;声光报警器：不执行&lt;/div&gt;" style="whiteSpace=wrap;html=1;strokeWidth=2;align=left;labelBackgroundColor=#4a91d0;labelBorderColor=none;" vertex="1" parent="iFManXigJgD2nTXd3mDo-1">
           <mxGeometry x="-400" y="470" width="310" height="60" as="geometry" />
@@ -1799,6 +1799,9 @@
         </mxCell>
         <mxCell id="fYFNIOwWum8jlP1RtMPy-20" value="&lt;div style=&quot;text-align: left&quot;&gt;声光报警器：开始执行2-3秒&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;音箱：播放“地震预警，就近避险”至地震波结束后播放可能余震，请有序疏散到室外空&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;strokeWidth=2;align=center;fontSize=13;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;labelBackgroundColor=#e96f1b;" vertex="1" parent="iFManXigJgD2nTXd3mDo-1">
           <mxGeometry x="950" y="470" width="360" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fYFNIOwWum8jlP1RtMPy-22" value="&lt;div style=&quot;text-align: left&quot;&gt;声光报警器：开始执行2-3秒&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;音箱：播放“地震预警，就近避险”至地震波结束后播放可能余震，请有序疏散到室外空&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;strokeWidth=2;align=center;fontSize=13;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;labelBackgroundColor=#e96f1b;" vertex="1" parent="iFManXigJgD2nTXd3mDo-1">
+          <mxGeometry x="467" y="1270" width="360" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
