@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-28T06:34:59.785Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="dlYGLeIlQGop96U_BbW-" version="14.8.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-01-28T06:36:08.529Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="T7kTDkb3BNebKghbqOT9" version="14.8.4" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="3716" dy="1066" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -916,7 +916,7 @@
         <mxCell id="ZIxHQ5FrTpvtqCkuEq77-338" value="终端" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.delay;whiteSpace=wrap;" vertex="1" parent="f01-6mVTigcqcZd7nwBR-1">
           <mxGeometry x="-606" y="960" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ZIxHQ5FrTpvtqCkuEq77-458" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" edge="1" parent="f01-6mVTigcqcZd7nwBR-1" source="ZIxHQ5FrTpvtqCkuEq77-340" target="ZIxHQ5FrTpvtqCkuEq77-452">
+        <mxCell id="ZIxHQ5FrTpvtqCkuEq77-464" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" edge="1" parent="f01-6mVTigcqcZd7nwBR-1" source="ZIxHQ5FrTpvtqCkuEq77-340" target="ZIxHQ5FrTpvtqCkuEq77-457">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZIxHQ5FrTpvtqCkuEq77-340" value="报警器" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.delay;whiteSpace=wrap;" vertex="1" parent="f01-6mVTigcqcZd7nwBR-1">
@@ -928,17 +928,17 @@
         <mxCell id="ZIxHQ5FrTpvtqCkuEq77-342" value="报警灯" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.delay;whiteSpace=wrap;" vertex="1" parent="f01-6mVTigcqcZd7nwBR-1">
           <mxGeometry x="-805" y="1820" width="100" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="ZIxHQ5FrTpvtqCkuEq77-463" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" edge="1" parent="f01-6mVTigcqcZd7nwBR-1" source="ZIxHQ5FrTpvtqCkuEq77-344" target="ZIxHQ5FrTpvtqCkuEq77-346">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ZIxHQ5FrTpvtqCkuEq77-344" value="报警" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="f01-6mVTigcqcZd7nwBR-1">
           <mxGeometry x="-815" y="2150" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZIxHQ5FrTpvtqCkuEq77-346" value="关闭" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="f01-6mVTigcqcZd7nwBR-1">
           <mxGeometry x="-815" y="2290" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ZIxHQ5FrTpvtqCkuEq77-348" value="报警" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="f01-6mVTigcqcZd7nwBR-1">
-          <mxGeometry x="-425" y="2170" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="ZIxHQ5FrTpvtqCkuEq77-350" value="关闭" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="f01-6mVTigcqcZd7nwBR-1">
-          <mxGeometry x="-426" y="2320" width="120" height="60" as="geometry" />
+          <mxGeometry x="-431" y="2290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZIxHQ5FrTpvtqCkuEq77-351" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="f01-6mVTigcqcZd7nwBR-1" source="ZIxHQ5FrTpvtqCkuEq77-352" target="ZIxHQ5FrTpvtqCkuEq77-354">
           <mxGeometry relative="1" as="geometry" />
@@ -1242,17 +1242,21 @@
         <mxCell id="ZIxHQ5FrTpvtqCkuEq77-451" value="是否运行" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;labelBackgroundColor=none;fontColor=#000000;" vertex="1" parent="f01-6mVTigcqcZd7nwBR-1">
           <mxGeometry x="-805" y="1940" width="100" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="ZIxHQ5FrTpvtqCkuEq77-459" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" edge="1" parent="f01-6mVTigcqcZd7nwBR-1" source="ZIxHQ5FrTpvtqCkuEq77-452" target="ZIxHQ5FrTpvtqCkuEq77-457">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="ZIxHQ5FrTpvtqCkuEq77-452" value="是否运行" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;labelBackgroundColor=none;fontColor=#000000;" vertex="1" parent="f01-6mVTigcqcZd7nwBR-1">
-          <mxGeometry x="-420" y="1930" width="100" height="100" as="geometry" />
+        <mxCell id="ZIxHQ5FrTpvtqCkuEq77-462" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#000000;" edge="1" parent="f01-6mVTigcqcZd7nwBR-1" source="ZIxHQ5FrTpvtqCkuEq77-453" target="ZIxHQ5FrTpvtqCkuEq77-346">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-990" y="2320" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="ZIxHQ5FrTpvtqCkuEq77-453" value="重新计时报警" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="f01-6mVTigcqcZd7nwBR-1">
           <mxGeometry x="-1050" y="1960" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ZIxHQ5FrTpvtqCkuEq77-457" value="播放更正信息" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#000000;" vertex="1" parent="f01-6mVTigcqcZd7nwBR-1">
-          <mxGeometry x="-274" y="1950" width="120" height="60" as="geometry" />
+        <mxCell id="ZIxHQ5FrTpvtqCkuEq77-465" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#000000;" edge="1" parent="f01-6mVTigcqcZd7nwBR-1" source="ZIxHQ5FrTpvtqCkuEq77-457" target="ZIxHQ5FrTpvtqCkuEq77-350">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZIxHQ5FrTpvtqCkuEq77-457" value="重新播放更正信息" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#000000;" vertex="1" parent="f01-6mVTigcqcZd7nwBR-1">
+          <mxGeometry x="-430" y="2090" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
