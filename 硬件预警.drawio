@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-28T02:05:05.993Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="wakEXR_e-Pxl9rdhWjiN" version="14.8.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-01-28T02:08:04.532Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="7FoCcVNRlYEZX6uQhgXk" version="14.8.4" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="3716" dy="1066" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -527,10 +527,10 @@
         <mxCell id="-C4AYKSoQJVb4hJ6JvJc-30" value="IP" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="-C4AYKSoQJVb4hJ6JvJc-29">
           <mxGeometry width="60" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="-C4AYKSoQJVb4hJ6JvJc-31" value="烈度" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="-C4AYKSoQJVb4hJ6JvJc-29">
+        <mxCell id="-C4AYKSoQJVb4hJ6JvJc-31" value="接收时间" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="-C4AYKSoQJVb4hJ6JvJc-29">
           <mxGeometry x="60" width="60" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="-C4AYKSoQJVb4hJ6JvJc-32" value="时间" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="-C4AYKSoQJVb4hJ6JvJc-29">
+        <mxCell id="-C4AYKSoQJVb4hJ6JvJc-32" value="来源" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="-C4AYKSoQJVb4hJ6JvJc-29">
           <mxGeometry x="120" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-C4AYKSoQJVb4hJ6JvJc-33" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="-C4AYKSoQJVb4hJ6JvJc-28">
@@ -539,10 +539,10 @@
         <mxCell id="-C4AYKSoQJVb4hJ6JvJc-34" value="时间差" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="-C4AYKSoQJVb4hJ6JvJc-33">
           <mxGeometry width="60" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="-C4AYKSoQJVb4hJ6JvJc-35" value="预警时间" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="-C4AYKSoQJVb4hJ6JvJc-33">
+        <mxCell id="-C4AYKSoQJVb4hJ6JvJc-35" value="发布时间" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="-C4AYKSoQJVb4hJ6JvJc-33">
           <mxGeometry x="60" width="60" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="-C4AYKSoQJVb4hJ6JvJc-36" value="结束时间" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="-C4AYKSoQJVb4hJ6JvJc-33">
+        <mxCell id="-C4AYKSoQJVb4hJ6JvJc-36" value="I/O反馈" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="-C4AYKSoQJVb4hJ6JvJc-33">
           <mxGeometry x="120" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-C4AYKSoQJVb4hJ6JvJc-37" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="-C4AYKSoQJVb4hJ6JvJc-28">
