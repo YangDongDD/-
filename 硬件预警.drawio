@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-28T00:48:56.391Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="POFfqjskJPRE7Bb6JgYy" version="14.8.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-01-28T00:50:04.008Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="IkhOpE-u4FL0aAx-E10d" version="14.8.4" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="3716" dy="1066" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -448,8 +448,20 @@
         <mxCell id="syS2JOL8KPeJiiTKDtd--15" value="关闭" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="f01-6mVTigcqcZd7nwBR-1">
           <mxGeometry x="500" y="1560" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="syS2JOL8KPeJiiTKDtd--21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="f01-6mVTigcqcZd7nwBR-1" source="syS2JOL8KPeJiiTKDtd--17" target="syS2JOL8KPeJiiTKDtd--20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="syS2JOL8KPeJiiTKDtd--17" value="终端" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.delay;whiteSpace=wrap;" vertex="1" parent="f01-6mVTigcqcZd7nwBR-1">
           <mxGeometry x="304" y="1770" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="syS2JOL8KPeJiiTKDtd--25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="f01-6mVTigcqcZd7nwBR-1" source="syS2JOL8KPeJiiTKDtd--20" target="syS2JOL8KPeJiiTKDtd--24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="syS2JOL8KPeJiiTKDtd--20" value="收集参数，上传服务器" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="f01-6mVTigcqcZd7nwBR-1">
+          <mxGeometry x="294" y="1910" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="syS2JOL8KPeJiiTKDtd--24" value="服务器" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.direct_data;whiteSpace=wrap;rotation=-90;" vertex="1" parent="f01-6mVTigcqcZd7nwBR-1">
+          <mxGeometry x="304" y="2100" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
