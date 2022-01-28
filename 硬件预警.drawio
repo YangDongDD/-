@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-28T00:39:32.998Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="OAmxx98JkwRqpPdhFanG" version="14.8.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-01-28T00:41:03.738Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="FwJqS8GPTocz_vXOUeLO" version="14.8.4" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="3716" dy="1066" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -401,6 +401,9 @@
         <mxCell id="syS2JOL8KPeJiiTKDtd--0" value="终端" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.delay;whiteSpace=wrap;" vertex="1" parent="f01-6mVTigcqcZd7nwBR-1">
           <mxGeometry x="304" y="990" width="100" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="syS2JOL8KPeJiiTKDtd--14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="f01-6mVTigcqcZd7nwBR-1" source="syS2JOL8KPeJiiTKDtd--2" target="syS2JOL8KPeJiiTKDtd--13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="syS2JOL8KPeJiiTKDtd--2" value="报警器" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.delay;whiteSpace=wrap;" vertex="1" parent="f01-6mVTigcqcZd7nwBR-1">
           <mxGeometry x="510" y="1280" width="100" height="60" as="geometry" />
         </mxCell>
@@ -413,8 +416,29 @@
         <mxCell id="syS2JOL8KPeJiiTKDtd--3" value="计算信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="f01-6mVTigcqcZd7nwBR-1">
           <mxGeometry x="294" y="1109" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="syS2JOL8KPeJiiTKDtd--10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="f01-6mVTigcqcZd7nwBR-1" source="syS2JOL8KPeJiiTKDtd--5" target="syS2JOL8KPeJiiTKDtd--9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="syS2JOL8KPeJiiTKDtd--5" value="报警灯" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.delay;whiteSpace=wrap;" vertex="1" parent="f01-6mVTigcqcZd7nwBR-1">
           <mxGeometry x="120" y="1280" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="syS2JOL8KPeJiiTKDtd--12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="f01-6mVTigcqcZd7nwBR-1" source="syS2JOL8KPeJiiTKDtd--9" target="syS2JOL8KPeJiiTKDtd--11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="syS2JOL8KPeJiiTKDtd--9" value="报警" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="f01-6mVTigcqcZd7nwBR-1">
+          <mxGeometry x="110" y="1420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="syS2JOL8KPeJiiTKDtd--11" value="关闭" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="f01-6mVTigcqcZd7nwBR-1">
+          <mxGeometry x="110" y="1560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="syS2JOL8KPeJiiTKDtd--16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="f01-6mVTigcqcZd7nwBR-1" source="syS2JOL8KPeJiiTKDtd--13" target="syS2JOL8KPeJiiTKDtd--15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="syS2JOL8KPeJiiTKDtd--13" value="报警" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="f01-6mVTigcqcZd7nwBR-1">
+          <mxGeometry x="500" y="1420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="syS2JOL8KPeJiiTKDtd--15" value="关闭" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="f01-6mVTigcqcZd7nwBR-1">
+          <mxGeometry x="500" y="1560" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
