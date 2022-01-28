@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-28T00:27:33.747Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="11hC4ML8dLxgQmTUXEx4" version="14.8.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-28T00:27:50.797Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="SRurwwcyW-npURV6x8ng" version="14.8.4" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="3716" dy="1066" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -319,6 +319,14 @@
         <mxCell id="nZmrJq0x39vUf4YxutHX-154" value="通电、联网" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;size=0.23;arcSize=10;flipV=1;labelPosition=center;align=center;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-290" y="340" width="100" height="60" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="akXXYe3YbXcUonVck1ag" name="第 2 页">
+    <mxGraphModel dx="2062" dy="1066" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="f01-6mVTigcqcZd7nwBR-0" />
+        <mxCell id="f01-6mVTigcqcZd7nwBR-1" parent="f01-6mVTigcqcZd7nwBR-0" />
       </root>
     </mxGraphModel>
   </diagram>
