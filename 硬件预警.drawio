@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-28T00:34:44.667Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="yzCoeqlEuKFjr0eyEnOV" version="14.8.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-01-28T00:38:56.239Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="7s9fCx8AluouzjKjBSWf" version="14.8.4" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="3716" dy="1066" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -384,6 +384,9 @@
         <mxCell id="_qVaQPmeQuI4cXf9t76h-17" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="_qVaQPmeQuI4cXf9t76h-14">
           <mxGeometry x="120" width="60" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="syS2JOL8KPeJiiTKDtd--1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="f01-6mVTigcqcZd7nwBR-1" source="_qVaQPmeQuI4cXf9t76h-20" target="syS2JOL8KPeJiiTKDtd--0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="_qVaQPmeQuI4cXf9t76h-20" value="广播发布" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="f01-6mVTigcqcZd7nwBR-1">
           <mxGeometry x="294" y="770" width="120" height="60" as="geometry" />
         </mxCell>
@@ -392,8 +395,20 @@
             <mxPoint x="360" y="710" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_qVaQPmeQuI4cXf9t76h-23" value="" style="shape=delay;whiteSpace=wrap;html=1;" vertex="1" parent="f01-6mVTigcqcZd7nwBR-1">
-          <mxGeometry x="314" y="950" width="80" height="40" as="geometry" />
+        <mxCell id="syS2JOL8KPeJiiTKDtd--0" value="终端" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.delay;whiteSpace=wrap;" vertex="1" parent="f01-6mVTigcqcZd7nwBR-1">
+          <mxGeometry x="304" y="990" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="syS2JOL8KPeJiiTKDtd--2" value="报警器" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.delay;whiteSpace=wrap;" vertex="1" parent="f01-6mVTigcqcZd7nwBR-1">
+          <mxGeometry x="640" y="1030" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="syS2JOL8KPeJiiTKDtd--4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="f01-6mVTigcqcZd7nwBR-1" source="syS2JOL8KPeJiiTKDtd--3" target="syS2JOL8KPeJiiTKDtd--2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="syS2JOL8KPeJiiTKDtd--3" value="计算信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="f01-6mVTigcqcZd7nwBR-1">
+          <mxGeometry x="294" y="1109" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="syS2JOL8KPeJiiTKDtd--5" value="报警灯" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.delay;whiteSpace=wrap;" vertex="1" parent="f01-6mVTigcqcZd7nwBR-1">
+          <mxGeometry x="640" y="1190" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
