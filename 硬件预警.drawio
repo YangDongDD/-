@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-09T03:06:16.360Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="qI4keoDA9WH1Rxu3g4i6" version="16.4.11" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-02-09T03:06:40.780Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="FO7AIy73expLDGK3L762" version="16.4.11" type="github" pages="4">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="3716" dy="1122" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2389,8 +2389,8 @@
         <mxCell id="mV8efP-PZDCofHE8nTrc-1" value="消息类型" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;labelBackgroundColor=default;" vertex="1" parent="iFManXigJgD2nTXd3mDo-1">
           <mxGeometry x="-270" y="450" width="100" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="mV8efP-PZDCofHE8nTrc-2" value="" style="whiteSpace=wrap;html=1;strokeWidth=2;labelBackgroundColor=default;" vertex="1" parent="iFManXigJgD2nTXd3mDo-1">
-          <mxGeometry x="-280" y="290" width="120" height="60" as="geometry" />
+        <mxCell id="mV8efP-PZDCofHE8nTrc-2" value="&lt;span style=&quot;text-align: left&quot;&gt;平缓播放“轻微地震，不要惊慌”至地震预整解除。&lt;/span&gt;" style="whiteSpace=wrap;html=1;strokeWidth=2;labelBackgroundColor=default;" vertex="1" parent="iFManXigJgD2nTXd3mDo-1">
+          <mxGeometry x="-370" y="290" width="300" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mV8efP-PZDCofHE8nTrc-7" value="" style="whiteSpace=wrap;html=1;strokeWidth=2;labelBackgroundColor=default;" vertex="1" parent="iFManXigJgD2nTXd3mDo-1">
           <mxGeometry x="-280" y="650" width="120" height="60" as="geometry" />
