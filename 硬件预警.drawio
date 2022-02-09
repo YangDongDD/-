@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-09T08:18:52.003Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="vugRZed504oZmGekNOvv" version="16.4.11" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-02-09T08:21:21.418Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="eazB-CYgWXS9BaKAdtP7" version="16.4.11" type="github" pages="4">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="3716" dy="1066" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1911,10 +1911,16 @@
           <mxGeometry x="-960" y="2240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9KfWsaP975xW8qHHFEBG-28" value="重新计时报警" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="f01-6mVTigcqcZd7nwBR-1">
-          <mxGeometry x="-1160" y="1900" width="120" height="60" as="geometry" />
+          <mxGeometry x="-1190" y="1890" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9KfWsaP975xW8qHHFEBG-143" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="f01-6mVTigcqcZd7nwBR-1" source="9KfWsaP975xW8qHHFEBG-30" target="9KfWsaP975xW8qHHFEBG-28">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9KfWsaP975xW8qHHFEBG-30" value="是否运行" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;labelBackgroundColor=none;fontColor=#000000;" vertex="1" parent="f01-6mVTigcqcZd7nwBR-1">
-          <mxGeometry x="-960" y="1880" width="100" height="100" as="geometry" />
+          <mxGeometry x="-990" y="1870" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="9KfWsaP975xW8qHHFEBG-142" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="f01-6mVTigcqcZd7nwBR-1" source="9KfWsaP975xW8qHHFEBG-31" target="9KfWsaP975xW8qHHFEBG-30">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9KfWsaP975xW8qHHFEBG-31" value="声光报警器" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.delay;whiteSpace=wrap;" vertex="1" parent="f01-6mVTigcqcZd7nwBR-1">
           <mxGeometry x="-990" y="1700" width="100" height="60" as="geometry" />
