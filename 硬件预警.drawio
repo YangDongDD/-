@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-09T00:48:33.691Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="YneyFUfDGgHeNn_Vo45j" version="16.4.11" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-02-09T01:12:01.406Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="Edb3T3thAe_PwCn3jByn" version="16.4.11" type="github" pages="4">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="3716" dy="1122" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1931,6 +1931,56 @@
         <mxCell id="_CEl2kN-T6LaG5CAqJ2k-1" parent="_CEl2kN-T6LaG5CAqJ2k-0" />
         <mxCell id="IOQKifhU3D1XykMSknme-0" value="黑名单管理" style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=default;" vertex="1" parent="_CEl2kN-T6LaG5CAqJ2k-1">
           <mxGeometry x="380" y="150" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="n61Cp1vN2DtBrH-fM5O--3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="_CEl2kN-T6LaG5CAqJ2k-1" source="n61Cp1vN2DtBrH-fM5O--1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n61Cp1vN2DtBrH-fM5O--1" value="设备管理" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=default;" vertex="1" parent="_CEl2kN-T6LaG5CAqJ2k-1">
+          <mxGeometry x="210" y="580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dXJQrItPq_yx3BCHRCTF-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="_CEl2kN-T6LaG5CAqJ2k-1" source="n61Cp1vN2DtBrH-fM5O--4" target="dXJQrItPq_yx3BCHRCTF-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n61Cp1vN2DtBrH-fM5O--4" value="拉入黑名单" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;size=0.23;arcSize=10;flipV=1;labelPosition=center;align=center;labelBackgroundColor=default;" vertex="1" parent="_CEl2kN-T6LaG5CAqJ2k-1">
+          <mxGeometry x="400" y="580" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dXJQrItPq_yx3BCHRCTF-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="_CEl2kN-T6LaG5CAqJ2k-1" source="dXJQrItPq_yx3BCHRCTF-0" target="dXJQrItPq_yx3BCHRCTF-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dXJQrItPq_yx3BCHRCTF-0" value="服务器" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.direct_data;whiteSpace=wrap;rotation=-90;" vertex="1" parent="_CEl2kN-T6LaG5CAqJ2k-1">
+          <mxGeometry x="610" y="580" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dXJQrItPq_yx3BCHRCTF-1" value="断开该IP长连接/添加信息至黑名单库" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="_CEl2kN-T6LaG5CAqJ2k-1">
+          <mxGeometry x="780" y="580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dXJQrItPq_yx3BCHRCTF-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="_CEl2kN-T6LaG5CAqJ2k-1" source="dXJQrItPq_yx3BCHRCTF-5" target="dXJQrItPq_yx3BCHRCTF-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dXJQrItPq_yx3BCHRCTF-5" value="黑名单管理" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=default;" vertex="1" parent="_CEl2kN-T6LaG5CAqJ2k-1">
+          <mxGeometry x="200" y="740" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dXJQrItPq_yx3BCHRCTF-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="_CEl2kN-T6LaG5CAqJ2k-1" source="dXJQrItPq_yx3BCHRCTF-6" target="dXJQrItPq_yx3BCHRCTF-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dXJQrItPq_yx3BCHRCTF-6" value="拉出黑名单" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;size=0.23;arcSize=10;flipV=1;labelPosition=center;align=center;labelBackgroundColor=default;" vertex="1" parent="_CEl2kN-T6LaG5CAqJ2k-1">
+          <mxGeometry x="390" y="740" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dXJQrItPq_yx3BCHRCTF-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="_CEl2kN-T6LaG5CAqJ2k-1" source="dXJQrItPq_yx3BCHRCTF-8" target="dXJQrItPq_yx3BCHRCTF-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dXJQrItPq_yx3BCHRCTF-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="_CEl2kN-T6LaG5CAqJ2k-1" source="dXJQrItPq_yx3BCHRCTF-8" target="dXJQrItPq_yx3BCHRCTF-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dXJQrItPq_yx3BCHRCTF-8" value="服务器" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.direct_data;whiteSpace=wrap;rotation=-90;" vertex="1" parent="_CEl2kN-T6LaG5CAqJ2k-1">
+          <mxGeometry x="610" y="740" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dXJQrItPq_yx3BCHRCTF-11" value="终端连接时，允许连接服务器" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="_CEl2kN-T6LaG5CAqJ2k-1">
+          <mxGeometry x="770" y="740" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dXJQrItPq_yx3BCHRCTF-13" value="是否存在IP信息" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="_CEl2kN-T6LaG5CAqJ2k-1">
+          <mxGeometry x="595" y="880" width="130" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
