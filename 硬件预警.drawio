@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-09T08:09:54.048Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="zQ4t2n0QOb5aohBZIEtO" version="16.4.11" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-02-09T08:11:55.566Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="Nwy3xWjYWciG-0FIw4DN" version="16.4.11" type="github" pages="4">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="3716" dy="1066" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1313,19 +1313,23 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZIxHQ5FrTpvtqCkuEq77-499" value="音箱" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.delay;whiteSpace=wrap;" parent="f01-6mVTigcqcZd7nwBR-1" vertex="1">
-          <mxGeometry x="-2011" y="1580" width="100" height="60" as="geometry" />
+          <mxGeometry x="-2131" y="1580" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZIxHQ5FrTpvtqCkuEq77-500" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontColor=#000000;" parent="f01-6mVTigcqcZd7nwBR-1" source="ZIxHQ5FrTpvtqCkuEq77-501" target="ZIxHQ5FrTpvtqCkuEq77-605" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZIxHQ5FrTpvtqCkuEq77-501" value="声光报警器" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.delay;whiteSpace=wrap;" parent="f01-6mVTigcqcZd7nwBR-1" vertex="1">
-          <mxGeometry x="-2395" y="1580" width="100" height="60" as="geometry" />
+          <mxGeometry x="-2515" y="1580" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZIxHQ5FrTpvtqCkuEq77-506" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" parent="f01-6mVTigcqcZd7nwBR-1" source="ZIxHQ5FrTpvtqCkuEq77-507" target="ZIxHQ5FrTpvtqCkuEq77-509" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1720" y="2080" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="ZIxHQ5FrTpvtqCkuEq77-507" value="关闭" style="whiteSpace=wrap;html=1;strokeWidth=2;" parent="f01-6mVTigcqcZd7nwBR-1" vertex="1">
-          <mxGeometry x="-2021" y="2050" width="120" height="60" as="geometry" />
+          <mxGeometry x="-2141" y="2050" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZIxHQ5FrTpvtqCkuEq77-508" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="f01-6mVTigcqcZd7nwBR-1" source="ZIxHQ5FrTpvtqCkuEq77-509" target="ZIxHQ5FrTpvtqCkuEq77-511" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -1664,7 +1668,7 @@
         <mxCell id="ZIxHQ5FrTpvtqCkuEq77-593" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="f01-6mVTigcqcZd7nwBR-1" source="ZIxHQ5FrTpvtqCkuEq77-596" target="ZIxHQ5FrTpvtqCkuEq77-600" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-            <mxPoint x="-1790" y="1520" as="sourcePoint" />
+            <mxPoint x="-1904" y="1470" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ZIxHQ5FrTpvtqCkuEq77-594" value="误报" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;" parent="ZIxHQ5FrTpvtqCkuEq77-593" vertex="1" connectable="0">
@@ -1685,11 +1689,14 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZIxHQ5FrTpvtqCkuEq77-600" value="获取I/O状态" style="whiteSpace=wrap;html=1;strokeWidth=2;" parent="f01-6mVTigcqcZd7nwBR-1" vertex="1">
-          <mxGeometry x="-2207" y="1440" width="120" height="60" as="geometry" />
+          <mxGeometry x="-2327" y="1440" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ZIxHQ5FrTpvtqCkuEq77-601" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="f01-6mVTigcqcZd7nwBR-1" source="ZIxHQ5FrTpvtqCkuEq77-605" target="ZIxHQ5FrTpvtqCkuEq77-509" edge="1">
+        <mxCell id="ZIxHQ5FrTpvtqCkuEq77-601" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="f01-6mVTigcqcZd7nwBR-1" source="ZIxHQ5FrTpvtqCkuEq77-605" target="ZIxHQ5FrTpvtqCkuEq77-509" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-1710" y="2517.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-2465" y="3510" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="ZIxHQ5FrTpvtqCkuEq77-602" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;" parent="ZIxHQ5FrTpvtqCkuEq77-601" vertex="1" connectable="0">
@@ -1706,26 +1713,26 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ZIxHQ5FrTpvtqCkuEq77-605" value="是否运行" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;labelBackgroundColor=none;fontColor=#000000;" parent="f01-6mVTigcqcZd7nwBR-1" vertex="1">
-          <mxGeometry x="-2395" y="1700" width="100" height="100" as="geometry" />
+          <mxGeometry x="-2515" y="1700" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="ZIxHQ5FrTpvtqCkuEq77-611" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" parent="f01-6mVTigcqcZd7nwBR-1" source="ZIxHQ5FrTpvtqCkuEq77-607" target="ZIxHQ5FrTpvtqCkuEq77-509" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-2500" y="3510" />
+              <mxPoint x="-2610" y="3510" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="ZIxHQ5FrTpvtqCkuEq77-607" value="关闭" style="whiteSpace=wrap;html=1;strokeWidth=2;" parent="f01-6mVTigcqcZd7nwBR-1" vertex="1">
-          <mxGeometry x="-2560" y="1720" width="120" height="60" as="geometry" />
+          <mxGeometry x="-2680" y="1720" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZIxHQ5FrTpvtqCkuEq77-608" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#000000;" parent="f01-6mVTigcqcZd7nwBR-1" source="ZIxHQ5FrTpvtqCkuEq77-609" target="ZIxHQ5FrTpvtqCkuEq77-507" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZIxHQ5FrTpvtqCkuEq77-609" value="播放误报语音" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#000000;" parent="f01-6mVTigcqcZd7nwBR-1" vertex="1">
-          <mxGeometry x="-2020" y="1850" width="120" height="60" as="geometry" />
+          <mxGeometry x="-2140" y="1850" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZIxHQ5FrTpvtqCkuEq77-610" value="终端添加误报信息" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#000000;" parent="f01-6mVTigcqcZd7nwBR-1" vertex="1">
-          <mxGeometry x="-2430" y="1440" width="120" height="60" as="geometry" />
+          <mxGeometry x="-2550" y="1440" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZIxHQ5FrTpvtqCkuEq77-618" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontColor=#000000;" parent="f01-6mVTigcqcZd7nwBR-1" source="ZIxHQ5FrTpvtqCkuEq77-615" target="ZIxHQ5FrTpvtqCkuEq77-574" edge="1">
           <mxGeometry relative="1" as="geometry" />
