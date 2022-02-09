@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-09T03:10:41.146Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="2R1jbF4_qQ9Ig6GinLIk" version="16.4.11" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-02-09T03:11:12.009Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="wD9jvynp0EZvC2XMQ_wB" version="16.4.11" type="github" pages="4">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="3716" dy="1122" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2460,7 +2460,7 @@
         <mxCell id="mV8efP-PZDCofHE8nTrc-21" value="&lt;span style=&quot;font-size: 12px ; background-color: rgb(255 , 255 , 255)&quot;&gt;消息类型&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=13;fontColor=#000000;strokeWidth=2;labelBackgroundColor=none;" vertex="1" parent="iFManXigJgD2nTXd3mDo-1">
           <mxGeometry x="1330" y="550" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="mV8efP-PZDCofHE8nTrc-26" value="&lt;span style=&quot;text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;播放“地震预警，就近避险”至地震波结束后播放可能余震，请有序疏散到室外空&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontSize=13;fontColor=#000000;strokeWidth=2;labelBackgroundColor=none;" vertex="1" parent="iFManXigJgD2nTXd3mDo-1">
+        <mxCell id="mV8efP-PZDCofHE8nTrc-26" value="&lt;span style=&quot;text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;播放“地震预警，就近避险”至地震波结束后播放“可能余震，请有序疏散到室外空&lt;/span&gt;&lt;span style=&quot;text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;”&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontSize=13;fontColor=#000000;strokeWidth=2;labelBackgroundColor=none;" vertex="1" parent="iFManXigJgD2nTXd3mDo-1">
           <mxGeometry x="1260" y="410" width="220" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mV8efP-PZDCofHE8nTrc-31" value="" style="whiteSpace=wrap;html=1;fontSize=13;fontColor=#000000;strokeWidth=2;labelBackgroundColor=none;" vertex="1" parent="iFManXigJgD2nTXd3mDo-1">
