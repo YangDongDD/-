@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-09T03:09:11.321Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="WXjgmmgeVoySfyX94HGH" version="16.4.11" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-02-09T03:10:41.146Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="2R1jbF4_qQ9Ig6GinLIk" version="16.4.11" type="github" pages="4">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="3716" dy="1122" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2354,13 +2354,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dbxCCmbAyhK0F76wezYB-1" value="&lt;font style=&quot;font-size: 11px&quot;&gt;音箱&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.delay;whiteSpace=wrap;labelBackgroundColor=none;fontSize=13;fontColor=#000000;align=center;verticalAlign=middle;" vertex="1" parent="iFManXigJgD2nTXd3mDo-1">
-          <mxGeometry x="930" y="525" width="100" height="60" as="geometry" />
+          <mxGeometry x="930" y="560" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dbxCCmbAyhK0F76wezYB-4" value="&lt;span style=&quot;text-align: left;&quot;&gt;开始执行2-3秒&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontSize=13;fontColor=#000000;strokeWidth=2;labelBackgroundColor=default;" vertex="1" parent="iFManXigJgD2nTXd3mDo-1">
           <mxGeometry x="1320" y="280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dbxCCmbAyhK0F76wezYB-6" value="&lt;span style=&quot;text-align: left;&quot;&gt;播放“地震预警，就近避险”至地震波结束后播放可能余震，请有序疏散到室外空&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontSize=13;fontColor=#000000;strokeWidth=2;labelBackgroundColor=default;" vertex="1" parent="iFManXigJgD2nTXd3mDo-1">
-          <mxGeometry x="1420" y="522.5" width="200" height="65" as="geometry" />
+          <mxGeometry x="1490" y="557.5" width="200" height="65" as="geometry" />
         </mxCell>
         <mxCell id="mV8efP-PZDCofHE8nTrc-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="iFManXigJgD2nTXd3mDo-1" source="mV8efP-PZDCofHE8nTrc-1" target="mV8efP-PZDCofHE8nTrc-2">
           <mxGeometry relative="1" as="geometry" />
@@ -2433,8 +2433,38 @@
         <mxCell id="mV8efP-PZDCofHE8nTrc-18" value="关闭" style="whiteSpace=wrap;html=1;strokeWidth=2;labelBackgroundColor=default;" vertex="1" parent="iFManXigJgD2nTXd3mDo-1">
           <mxGeometry x="1120" y="430" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="mV8efP-PZDCofHE8nTrc-21" value="" style="rhombus;whiteSpace=wrap;html=1;fontSize=13;fontColor=#000000;strokeWidth=2;labelBackgroundColor=none;" vertex="1" parent="iFManXigJgD2nTXd3mDo-1">
-          <mxGeometry x="1120" y="515" width="80" height="80" as="geometry" />
+        <mxCell id="mV8efP-PZDCofHE8nTrc-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="iFManXigJgD2nTXd3mDo-1" source="mV8efP-PZDCofHE8nTrc-21" target="dbxCCmbAyhK0F76wezYB-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mV8efP-PZDCofHE8nTrc-30" value="正常" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mV8efP-PZDCofHE8nTrc-23">
+          <mxGeometry x="0.2917" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mV8efP-PZDCofHE8nTrc-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="iFManXigJgD2nTXd3mDo-1" source="mV8efP-PZDCofHE8nTrc-21" target="mV8efP-PZDCofHE8nTrc-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mV8efP-PZDCofHE8nTrc-29" value="更正" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mV8efP-PZDCofHE8nTrc-28">
+          <mxGeometry x="0.2708" y="-2" relative="1" as="geometry">
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mV8efP-PZDCofHE8nTrc-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="iFManXigJgD2nTXd3mDo-1" source="mV8efP-PZDCofHE8nTrc-21" target="mV8efP-PZDCofHE8nTrc-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mV8efP-PZDCofHE8nTrc-33" value="误报" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mV8efP-PZDCofHE8nTrc-32">
+          <mxGeometry x="-0.7593" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mV8efP-PZDCofHE8nTrc-21" value="&lt;span style=&quot;font-size: 12px ; background-color: rgb(255 , 255 , 255)&quot;&gt;消息类型&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=13;fontColor=#000000;strokeWidth=2;labelBackgroundColor=none;" vertex="1" parent="iFManXigJgD2nTXd3mDo-1">
+          <mxGeometry x="1330" y="550" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mV8efP-PZDCofHE8nTrc-26" value="&lt;span style=&quot;text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;播放“地震预警，就近避险”至地震波结束后播放可能余震，请有序疏散到室外空&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontSize=13;fontColor=#000000;strokeWidth=2;labelBackgroundColor=none;" vertex="1" parent="iFManXigJgD2nTXd3mDo-1">
+          <mxGeometry x="1260" y="410" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mV8efP-PZDCofHE8nTrc-31" value="" style="whiteSpace=wrap;html=1;fontSize=13;fontColor=#000000;strokeWidth=2;labelBackgroundColor=none;" vertex="1" parent="iFManXigJgD2nTXd3mDo-1">
+          <mxGeometry x="1310" y="680" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
