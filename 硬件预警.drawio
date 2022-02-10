@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-10T00:39:45.511Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="era86Y4rgcNV1KTSsocM" version="16.4.11" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-02-10T00:40:53.326Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="ETGF6uXi9p2K_yP5D8nZ" version="16.4.11" type="github" pages="4">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="3495" dy="941" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1882,14 +1882,14 @@
         <mxCell id="kp_s40fO5Sh6JbvnZkT5-43" value="&lt;font style=&quot;font-size: 11px&quot;&gt;声光报警器&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.delay;whiteSpace=wrap;labelBackgroundColor=none;fontSize=13;fontColor=#000000;align=center;verticalAlign=middle;" vertex="1" parent="iFManXigJgD2nTXd3mDo-1">
           <mxGeometry x="3040" y="1200" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="kp_s40fO5Sh6JbvnZkT5-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;fontColor=#000000;" edge="1" parent="iFManXigJgD2nTXd3mDo-1" source="kp_s40fO5Sh6JbvnZkT5-45" target="kp_s40fO5Sh6JbvnZkT5-46">
+        <mxCell id="5hp-uOCzttOBG310_vwk-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="iFManXigJgD2nTXd3mDo-1" source="kp_s40fO5Sh6JbvnZkT5-45" target="5hp-uOCzttOBG310_vwk-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kp_s40fO5Sh6JbvnZkT5-45" value="&lt;font style=&quot;font-size: 11px&quot;&gt;音箱&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.delay;whiteSpace=wrap;labelBackgroundColor=none;fontSize=13;fontColor=#000000;align=center;verticalAlign=middle;" vertex="1" parent="iFManXigJgD2nTXd3mDo-1">
           <mxGeometry x="3450" y="1190" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kp_s40fO5Sh6JbvnZkT5-46" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;&quot;&gt;急促播放&quot;强震预警，快速疏散到室外空地”至地震预警解除&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontSize=13;strokeWidth=2;labelBackgroundColor=none;" vertex="1" parent="iFManXigJgD2nTXd3mDo-1">
-          <mxGeometry x="3370" y="1340" width="260" height="60" as="geometry" />
+          <mxGeometry x="3370" y="1530" width="260" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kp_s40fO5Sh6JbvnZkT5-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;fontColor=#000000;" edge="1" parent="iFManXigJgD2nTXd3mDo-1" source="kp_s40fO5Sh6JbvnZkT5-48" target="kp_s40fO5Sh6JbvnZkT5-49">
           <mxGeometry relative="1" as="geometry" />
@@ -1992,6 +1992,28 @@
         </mxCell>
         <mxCell id="5hp-uOCzttOBG310_vwk-6" value="&lt;span&gt;余下时间播报更新内容&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontSize=13;fontColor=#000000;strokeWidth=2;labelBackgroundColor=none;" vertex="1" parent="iFManXigJgD2nTXd3mDo-1">
           <mxGeometry x="2410" y="1380" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5hp-uOCzttOBG310_vwk-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="iFManXigJgD2nTXd3mDo-1" source="5hp-uOCzttOBG310_vwk-10" target="kp_s40fO5Sh6JbvnZkT5-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5hp-uOCzttOBG310_vwk-12" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="5hp-uOCzttOBG310_vwk-11">
+          <mxGeometry x="-0.788" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5hp-uOCzttOBG310_vwk-14" value="s" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="iFManXigJgD2nTXd3mDo-1" source="5hp-uOCzttOBG310_vwk-10" target="5hp-uOCzttOBG310_vwk-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5hp-uOCzttOBG310_vwk-16" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="5hp-uOCzttOBG310_vwk-14">
+          <mxGeometry x="0.2889" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5hp-uOCzttOBG310_vwk-10" value="是否运行" style="rhombus;whiteSpace=wrap;html=1;fontSize=13;fontColor=#000000;strokeWidth=2;labelBackgroundColor=none;" vertex="1" parent="iFManXigJgD2nTXd3mDo-1">
+          <mxGeometry x="3460" y="1320" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5hp-uOCzttOBG310_vwk-13" value="&lt;span&gt;余下时间播报更新内容&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontSize=13;fontColor=#000000;strokeWidth=2;labelBackgroundColor=none;" vertex="1" parent="iFManXigJgD2nTXd3mDo-1">
+          <mxGeometry x="3240" y="1330" width="140" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
