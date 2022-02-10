@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-10T01:05:11.079Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="YTbtn8Lzoe8hSkruR07E" version="16.4.11" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-02-10T01:05:27.714Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="3lzIIwmYtcX5JHXApOiS" version="16.4.11" type="github" pages="4">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="3495" dy="941" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2121,7 +2121,7 @@
         <mxCell id="ybNPl0HTp1jlb2CYd79Z-18" value="无操作" style="whiteSpace=wrap;html=1;fontSize=13;fontColor=#000000;strokeWidth=2;labelBackgroundColor=none;" vertex="1" parent="iFManXigJgD2nTXd3mDo-1">
           <mxGeometry x="2690" y="2400" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ybNPl0HTp1jlb2CYd79Z-21" value="&lt;span style=&quot;font-size: 12px ; text-align: left&quot;&gt;误触发，取消预警（平缓播5遍）&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontSize=13;fontColor=#000000;strokeWidth=2;labelBackgroundColor=none;" vertex="1" parent="iFManXigJgD2nTXd3mDo-1">
+        <mxCell id="ybNPl0HTp1jlb2CYd79Z-21" value="&lt;span style=&quot;font-size: 12px ; text-align: left&quot;&gt;立即播报：误触发，取消预警（平缓播5遍）&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontSize=13;fontColor=#000000;strokeWidth=2;labelBackgroundColor=none;" vertex="1" parent="iFManXigJgD2nTXd3mDo-1">
           <mxGeometry x="2110" y="2400" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
