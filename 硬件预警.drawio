@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-10T00:36:12.400Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="ePq2QkOiLd46Balc9Slv" version="16.4.11" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-02-10T00:37:01.385Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="EebRtN_sfNuXjX4I5AiF" version="16.4.11" type="github" pages="4">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="3495" dy="941" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1492,7 +1492,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="yzV9eRlTvhtdDiaQ4OfT" name="第 3 页">
-    <mxGraphModel dx="2873" dy="1046" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3118" dy="1184" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="iFManXigJgD2nTXd3mDo-0" />
         <mxCell id="iFManXigJgD2nTXd3mDo-1" parent="iFManXigJgD2nTXd3mDo-0" />
@@ -1697,8 +1697,10 @@
         <mxCell id="dbxCCmbAyhK0F76wezYB-0" value="&lt;font style=&quot;font-size: 11px&quot;&gt;声光报警器&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.delay;whiteSpace=wrap;labelBackgroundColor=none;fontSize=13;fontColor=#000000;align=center;verticalAlign=middle;" vertex="1" parent="iFManXigJgD2nTXd3mDo-1">
           <mxGeometry x="930" y="280" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="mV8efP-PZDCofHE8nTrc-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="iFManXigJgD2nTXd3mDo-1" source="dbxCCmbAyhK0F76wezYB-1" target="mV8efP-PZDCofHE8nTrc-21">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="mV8efP-PZDCofHE8nTrc-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="iFManXigJgD2nTXd3mDo-1" source="dbxCCmbAyhK0F76wezYB-1" target="dbxCCmbAyhK0F76wezYB-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1150" y="600" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="dbxCCmbAyhK0F76wezYB-1" value="&lt;font style=&quot;font-size: 11px&quot;&gt;音箱&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.delay;whiteSpace=wrap;labelBackgroundColor=none;fontSize=13;fontColor=#000000;align=center;verticalAlign=middle;" vertex="1" parent="iFManXigJgD2nTXd3mDo-1">
           <mxGeometry x="930" y="560" width="100" height="60" as="geometry" />
@@ -1707,18 +1709,7 @@
           <mxGeometry x="1170" y="280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dbxCCmbAyhK0F76wezYB-6" value="&lt;span style=&quot;text-align: left&quot;&gt;播放“地震预警，就近避险”至地震波结束后播放“可能余震，请有序疏散到室外空地&lt;/span&gt;&lt;span style=&quot;text-align: left&quot;&gt;”&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontSize=13;fontColor=#000000;strokeWidth=2;labelBackgroundColor=default;" vertex="1" parent="iFManXigJgD2nTXd3mDo-1">
-          <mxGeometry x="1490" y="557.5" width="200" height="65" as="geometry" />
-        </mxCell>
-        <mxCell id="mV8efP-PZDCofHE8nTrc-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="iFManXigJgD2nTXd3mDo-1" source="mV8efP-PZDCofHE8nTrc-21" target="dbxCCmbAyhK0F76wezYB-6">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="mV8efP-PZDCofHE8nTrc-30" value="正常" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mV8efP-PZDCofHE8nTrc-23">
-          <mxGeometry x="0.2917" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="mV8efP-PZDCofHE8nTrc-21" value="&lt;span style=&quot;font-size: 12px ; background-color: rgb(255 , 255 , 255)&quot;&gt;消息类型&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=13;fontColor=#000000;strokeWidth=2;labelBackgroundColor=none;" vertex="1" parent="iFManXigJgD2nTXd3mDo-1">
-          <mxGeometry x="1330" y="550" width="80" height="80" as="geometry" />
+          <mxGeometry x="1160" y="557.5" width="200" height="65" as="geometry" />
         </mxCell>
         <mxCell id="mV8efP-PZDCofHE8nTrc-39" value="&lt;div style=&quot;text-align: left&quot;&gt;开始执行2-3秒&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontSize=13;fontColor=#000000;strokeWidth=2;labelBackgroundColor=none;" vertex="1" parent="iFManXigJgD2nTXd3mDo-1">
           <mxGeometry x="-440" y="1340" width="120" height="60" as="geometry" />
