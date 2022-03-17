@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-17T09:01:57.377Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="esUquKy_htTxvuIzb4Ku" version="17.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-17T09:02:11.946Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="VawdGY9-rmXP_M1iLg00" version="17.1.1" type="github">
   <diagram id="sC8Dn9gLM0qOhP2Wz6wK" name="第 1 页">
     <mxGraphModel dx="2062" dy="1122" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -95,6 +95,9 @@
         </mxCell>
         <mxCell id="1xZW1lL9CZbo1leavQ0f-34" value="点击后可控制选中的灯开与关，长按后可重新定义控制的灯和名称" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="150" y="1080" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1xZW1lL9CZbo1leavQ0f-36" value="灯智能管控模块" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="260" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
