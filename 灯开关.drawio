@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-18T02:08:28.509Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="iQzp7G8QZ-9HdlyyVMW5" version="17.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-18T02:08:52.263Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="lRfc7xS0Hu7FfzhjfIsA" version="17.1.3" type="github">
   <diagram id="sC8Dn9gLM0qOhP2Wz6wK" name="第 1 页">
     <mxGraphModel dx="2062" dy="2291" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -214,14 +214,26 @@
         <mxCell id="jll7gkMeuHU4KemUMjAS-18" value="场景控制组合自定义（点击可自由添加当前终端连接灯组合开关）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1140" y="1980" width="200" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="jll7gkMeuHU4KemUMjAS-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jll7gkMeuHU4KemUMjAS-19" target="jll7gkMeuHU4KemUMjAS-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="jll7gkMeuHU4KemUMjAS-19" value="权限验证" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
           <mxGeometry x="1910" y="1830" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jll7gkMeuHU4KemUMjAS-21" value="场景条件自定义（长按实现本场景的组合修改和自定义名称修改或删除当前场景）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2310" y="1630" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="jll7gkMeuHU4KemUMjAS-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jll7gkMeuHU4KemUMjAS-20" target="jll7gkMeuHU4KemUMjAS-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="jll7gkMeuHU4KemUMjAS-20" value="权限验证" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
           <mxGeometry x="1940" y="1500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jll7gkMeuHU4KemUMjAS-23" value="改，删" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2140" y="1500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jll7gkMeuHU4KemUMjAS-25" value="增" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2110" y="1830" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
