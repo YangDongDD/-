@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-18T02:07:24.043Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="hmC10XvR_uuN1a0MKRaq" version="17.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-18T02:07:47.932Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="PQOCrOQPvUYoLtOOCSUZ" version="17.1.3" type="github">
   <diagram id="sC8Dn9gLM0qOhP2Wz6wK" name="第 1 页">
     <mxGraphModel dx="2062" dy="2291" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -135,13 +135,10 @@
         <mxCell id="1xZW1lL9CZbo1leavQ0f-62" value="添加" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="1490" y="1830" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1xZW1lL9CZbo1leavQ0f-63" value="场景控制组合自定义（点击可自由添加当前终端连接灯组合开关）" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1910" y="1820" width="200" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="1xZW1lL9CZbo1leavQ0f-64" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="1xZW1lL9CZbo1leavQ0f-62" target="1xZW1lL9CZbo1leavQ0f-63" edge="1">
+        <mxCell id="1xZW1lL9CZbo1leavQ0f-64" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="1xZW1lL9CZbo1leavQ0f-62" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1860" y="1950" as="sourcePoint" />
-            <mxPoint x="1910" y="1900" as="targetPoint" />
+            <mxPoint x="1910" y="1860" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="1xZW1lL9CZbo1leavQ0f-65" value="场景开/关状态表示（开与关状态表示背景边框之类醒目标识）" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -216,6 +213,12 @@
         </mxCell>
         <mxCell id="jll7gkMeuHU4KemUMjAS-14" value="例：智能灯控" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1495" y="1190" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jll7gkMeuHU4KemUMjAS-18" value="场景控制组合自定义（点击可自由添加当前终端连接灯组合开关）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2150" y="1810" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jll7gkMeuHU4KemUMjAS-19" value="权限验证" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="1910" y="1830" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
