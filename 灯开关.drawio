@@ -1,12 +1,9 @@
-<mxfile host="app.diagrams.net" modified="2022-03-18T02:12:41.815Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="v9oytRqaVY8Io_0HJm1B" version="17.1.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-03-18T02:12:54.038Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="8wT0MbrHOM9trbg4xkh5" version="17.1.3" type="github" pages="2">
   <diagram id="sC8Dn9gLM0qOhP2Wz6wK" name="第 1 页">
     <mxGraphModel dx="2062" dy="-47" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="1xZW1lL9CZbo1leavQ0f-39" value="灯" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="32" y="2150" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="1xZW1lL9CZbo1leavQ0f-47" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;" parent="1" vertex="1">
           <mxGeometry x="1310" y="1350" width="490" height="560" as="geometry" />
         </mxCell>
