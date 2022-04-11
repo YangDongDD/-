@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-11T03:26:45.248Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="yXZtqx3jMWVvi3iPub_E" version="17.1.3" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-04-11T03:27:16.181Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="WFzlqjaFcXL9HRhBg0s-" version="17.1.3" type="github" pages="5">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="3716" dy="1122" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2293,6 +2293,9 @@
         </mxCell>
         <mxCell id="G_nOgxxaUTxJjk6uf14Q-7" value="M=8，S=6" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="G_nOgxxaUTxJjk6uf14Q-1">
           <mxGeometry x="294" y="710" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="G_nOgxxaUTxJjk6uf14Q-8" value="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" vertex="1" parent="G_nOgxxaUTxJjk6uf14Q-1">
+          <mxGeometry x="130" y="535" width="40" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
