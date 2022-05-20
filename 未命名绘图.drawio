@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2022-05-20T03:42:06.825Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="pEt1nHpjas6MqGVnVEDd" version="18.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-20T10:00:03.644Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="ZE6yqHi9oz0tl-b49oHN" version="18.0.7" type="github">
   <diagram id="138GLmA1xgyAAFsX5XPE" name="第 1 页">
     <mxGraphModel dx="2889" dy="1066" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="h39PCCWRixWSNqfOjy_g-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-280" y="175" width="1300" height="765" as="geometry" />
+        </mxCell>
         <mxCell id="6Lu-BEhj6P7lMjApayFk-44" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="10" y="190" width="650" height="90" as="geometry" />
         </mxCell>
@@ -115,7 +118,7 @@
         <mxCell id="6Lu-BEhj6P7lMjApayFk-81" value="传感器" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;" parent="1" vertex="1">
           <mxGeometry x="520" y="815" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="mEjwS3zA7tWdSqR9epcq-1" value="对外数据接口" style="rounded=1;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
+        <mxCell id="mEjwS3zA7tWdSqR9epcq-1" value="对外数据接口" style="rounded=1;whiteSpace=wrap;html=1;rotation=90;" parent="1" vertex="1">
           <mxGeometry x="-445" y="475" width="700" height="130" as="geometry" />
         </mxCell>
       </root>
