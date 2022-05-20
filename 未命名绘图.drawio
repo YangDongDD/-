@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-20T10:52:33.841Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="Q-6QxhBWB5vkCAR-Bi9v" version="18.0.7" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-05-20T10:52:47.479Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="rSMTVCdbFdvW50Jnwjfm" version="18.0.7" type="github" pages="2">
   <diagram id="138GLmA1xgyAAFsX5XPE" name="第 1 页">
     <mxGraphModel dx="2889" dy="1066" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -201,19 +201,19 @@
         <mxCell id="S6wNnopa5jU2-JXvmkRm-37" value="后台管理系统" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;" vertex="1" parent="1">
           <mxGeometry x="1200" y="504" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="S6wNnopa5jU2-JXvmkRm-38" value="可视化数据平台" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;" vertex="1" parent="1">
+        <mxCell id="S6wNnopa5jU2-JXvmkRm-38" value="可视化数据平台" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="1360" y="504" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="S6wNnopa5jU2-JXvmkRm-39" value="APP" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;" vertex="1" parent="1">
+        <mxCell id="S6wNnopa5jU2-JXvmkRm-39" value="APP" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="1540" y="504" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="S6wNnopa5jU2-JXvmkRm-40" value="后台管理系统" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;" vertex="1" parent="1">
+        <mxCell id="S6wNnopa5jU2-JXvmkRm-40" value="后台管理系统" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="1200" y="504" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="S6wNnopa5jU2-JXvmkRm-41" value="后台管理系统" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;" vertex="1" parent="1">
+        <mxCell id="S6wNnopa5jU2-JXvmkRm-41" value="后台管理系统" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="1200" y="600" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="S6wNnopa5jU2-JXvmkRm-42" value="APP" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;" vertex="1" parent="1">
+        <mxCell id="S6wNnopa5jU2-JXvmkRm-42" value="APP" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="1380" y="600" width="90" height="60" as="geometry" />
         </mxCell>
       </root>
