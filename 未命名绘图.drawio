@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-20T10:40:11.129Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="twz5VHkzyxWXrfURX5xl" version="18.0.7" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-05-20T10:41:01.597Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="-qSOoGScBFSPxM9EscCM" version="18.0.7" type="github" pages="2">
   <diagram id="138GLmA1xgyAAFsX5XPE" name="第 1 页">
     <mxGraphModel dx="2889" dy="1066" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -160,10 +160,13 @@
           <mxGeometry x="-75" y="640" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="S6wNnopa5jU2-JXvmkRm-16" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family: 华文仿宋; font-size: 12pt;&quot;&gt;Al智能&lt;/span&gt;&lt;span style=&quot;font-family: 华文仿宋; font-size: 12pt;&quot;&gt;分析&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="580" y="490" width="120" height="60" as="geometry" />
+          <mxGeometry x="660" y="490" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="S6wNnopa5jU2-JXvmkRm-17" value="物联网设备监测" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="580" y="600" width="120" height="60" as="geometry" />
+          <mxGeometry x="475" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="S6wNnopa5jU2-JXvmkRm-18" value="数据对接" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="560" y="890" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
